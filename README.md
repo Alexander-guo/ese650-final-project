@@ -1,4 +1,4 @@
-# Learning in Robotics (ESE 650) - Final Project: Semantic Slam
+# Learning in Robotics (ESE 650) - Final Project: Semantic SLAM
 In this project, we incorporate semantic information extracted from object detection model YOLOv5 into the
 whole pipe line of stereo ORB-SLAM2 to associate the landmarks with semantic information. The position and semantic
 information from YOLOv5 are employed for landmark initialization and landmark semantic labeling. Meanwhile, a Bayesian
